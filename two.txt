@@ -2,7 +2,16 @@
   "spider": "https://la.kstore.space/download/3376/fty.jar;md5;10eb32e7f059984cba18ee3a8b764470",
   "wallpaper": "https://cainisi.cf/壁纸",
   "sites": [
-
+    {
+      "key": "360影视",
+      "name": "360┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/360影视.json"
+    },
     {
       "key": "豆瓣推荐",
       "name": "豆瓣┃推荐",
